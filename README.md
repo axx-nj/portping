@@ -1,6 +1,6 @@
-# portpinger
+# portping
 
-**ICMP filtered?** "Ping" a port instead using `portpinger`.
+**ICMP filtered?** "Ping" a port instead using `portping`.
 
 ### Examples
 
